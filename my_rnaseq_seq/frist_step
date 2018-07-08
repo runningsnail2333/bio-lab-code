@@ -1,4 +1,4 @@
 首先从数据库下载所需要分析的数据
-代码：wget -i ftp://ftp.ccb.jhu.edu/pub/RNAseq_protocol/chrX_data.tar.gz
+代码：wget ftp://ftp.ccb.jhu.edu/pub/RNAseq_protocol/chrX_data.tar.gz
 
 把这个文件下载到我的文件夹下，以便于后续的分析
